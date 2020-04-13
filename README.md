@@ -53,13 +53,17 @@ My current employment very kindly allowed me to take sabbatical leave to do an i
 ## Experience
 
 **Discovery Channel / Eurosport** (December 2009 to date)
+
 *Live Transmission Operator*
+
 - Various similar technical roles within broadcasting, including Lead experience.
 - Setting up and manning TV channels during live broadcasts.
 - Fixing any errors on air ASAP.
 
 **Ascent Media** (November 2007 to December 2009)
+
 *Runner / Library Assistant*
+
 - Entry level role logging tapes and reels of film into databases.
 
 ## Hobbies and Interests
