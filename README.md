@@ -8,7 +8,7 @@ I am a 36 year old who has spent the last 11 years working for Discovery Channel
 
 www.disco-computer.com
 
-I have a strong interest in making music so many of my projects utilise Web Audio API. The synth maybe a little esoteric, but you can load demo sounds and patterns using the dropdown. There is also a game here, which was my first experiment using OOP.
+I have a strong interest in making music so many of my projects utilise Web Audio API. The synth is very esoteric, but you can load demo sounds and patterns using the dropdown. There is also a game here, which was my first experiment using OOP.
 
 ## Skills
 
