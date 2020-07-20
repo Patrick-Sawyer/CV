@@ -45,7 +45,8 @@ My current employment very kindly allowed me to take sabbatical leave to do an i
 
 - OOP, TDD, MVC, BDD
 - Agile workflow
-- JavaScript, React, JQuery, Ruby, Rails
+- JavaScript, React, JQuery
+- Ruby, Rails, Sinatra
 - Jasmine, Jest, Cypress, RSpec, Capybara
 
 #### University of Hertfordshire (September 2003 to June 2006)
