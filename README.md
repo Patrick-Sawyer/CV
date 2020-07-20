@@ -41,6 +41,8 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 
 [Repo](https://github.com/Patrick-Sawyer/GildedRose-Refactoring-Kata/tree/master/spec)
 
+- Using Ruby, and fully tested using RSpec
+
 ### Group Projects
 
 #### TikTok API Project
