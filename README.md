@@ -37,6 +37,10 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 - Uses Howler.js for audio
 - My very first project
 
+#### Gilded Rose Refactoring Challenge
+
+[Repo}(https://github.com/Patrick-Sawyer/GildedRose-Refactoring-Kata/tree/master/spec)
+
 ### Group Projects
 
 #### TikTok API Project
