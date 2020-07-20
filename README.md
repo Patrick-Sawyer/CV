@@ -10,7 +10,7 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 
 #### TikTok API Project
 
-[React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api)
+[React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api) - [Live Version](http://chronomy.net/)
 
 - Final project from Makers Bootcamp
 - React frontend, Rails API backend
