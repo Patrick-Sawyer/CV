@@ -39,7 +39,7 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 
 #### Gilded Rose Refactoring Challenge
 
-[Repo}(https://github.com/Patrick-Sawyer/GildedRose-Refactoring-Kata/tree/master/spec)
+[Repo](https://github.com/Patrick-Sawyer/GildedRose-Refactoring-Kata/tree/master/spec)
 
 ### Group Projects
 
