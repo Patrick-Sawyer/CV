@@ -96,7 +96,7 @@ My current employment very kindly allowed me to take sabbatical leave to do an i
 
 #### University of Hertfordshire (September 2003 to June 2006)
 
-- BSc in Music, Commercial Composition & Technolody.
+- BSc in Music, Commercial Composition & Technology.
 - 2:1 with Honours.
 - MAX/MSP, Music Technology, Music Composition.
 
