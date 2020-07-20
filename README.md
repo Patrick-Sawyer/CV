@@ -2,15 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/patrickrobertsawyer/) | [Github](https://github.com/Patrick-Sawyer/) | [Website](http://www.disco-computer.com)
 
--------------------------------------------------
-
 I am a 36 year old Makers Bootcamp graduate currently working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last two years learning to code, and now have a solid understanding of JavaScript, React, Ruby, Rails and associated testing frameworks. I am now looking for a Junior developer role so I can begin a new career that utilises my new skills.
 
 ---------------------------------------
 
 ### Solo Projects
-
--------------------------------------
 
 #### Conway's Game of Life React App
 
@@ -58,8 +54,6 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 --------------------------------------
 
 ### Group Projects
-
---------------------------------------
 
 #### TikTok API Project
 
