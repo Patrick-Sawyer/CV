@@ -42,6 +42,14 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 
 - One of my first vanilla JavaScript projects
 
+#### Disco Computer
+
+[Repo](https://github.com/Patrick-Sawyer/Javascript-Drum-Machine) - [Live Version](http://www.disco-computer.com/discoComputer/disco.html)
+
+- JavaScript Drum machine
+- Uses Howler.js for audio
+- My very first project
+
 ## Skills
 
 #### Quick Learner
