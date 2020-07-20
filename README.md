@@ -6,29 +6,41 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 
 ## Projects
 
+### Group Projects
+
 #### TikTok API Project
 
 [React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api)
 
-This is my final project from Makers Bootcamp. It was a group project involving a React frontend and a Rails API backend. It is a website where users can create TikTok playlists, and send URLs for these playlists to family and friends. It features testing using Jest, Enzyme, Cypress and RSpec. It utilises the official TikTok API as well as another third party API at tiktok.fail.
+- Final project from Makers Bootcamp
+- React frontend, Rails API backend
+- Uses TikTok API, and a third party API from tiktok.fail
+- Users can create TikTok playlists
+- JavaScript, React, Ruby on Rails
+- Tested using Jest, Enzyme, Cypress and RSpec
+
+### Solo Projects
+
+#### Conway's Game of Life React App
+
+[Repo](https://github.com/Patrick-Sawyer/game-of-life-react-app) - [Live Version](http://www.disco-computer.com/game-of-life/)
+
+- One of my first React projects.
+- Tested using Jest, Enzyme and Cypress.
 
 #### Web Audio API Synth
 
 [Repo](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
 
-I have a strong interest in making music so many of my projects utilise Web Audio API. The synth is very esoteric, but you can load demo sounds and patterns using the dropdown. 
-
-#### Game of Life React App
-
-[Repo](https://github.com/Patrick-Sawyer/game-of-life-react-app) - [Live Version](http://www.disco-computer.com/game-of-life/)
-
-This is my version of the Game of Life app. This was made using react, and tested using Jest, Enzyme and Cypress.
+- An online synth using Web Audio API
+- Users can build their own patches and save them
+- Optimised for use in Chrome but works in most modern browsers
 
 #### Tetris
 
 [Repo](https://github.com/Patrick-Sawyer/Javascript-Tetris) - [Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
 
-One of my first vanilla JS projects.
+- One of my first vanilla JavaScript projects
 
 ## Skills
 
