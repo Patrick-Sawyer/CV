@@ -5,7 +5,6 @@
 I am a 36 year old who has spent the last 11 years working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last 18 months learning to code, specifically JavaScript, Ruby, HTML & CSS. I get a lot of satisfaction from it and am now competant enough to make a career jump into development.
 
 ## Projects
-----------------------------------------------
 
 [Web Audio API Synth](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth)
 
@@ -13,7 +12,7 @@ I am a 36 year old who has spent the last 11 years working for Discovery Channel
 
 I have a strong interest in making music so many of my projects utilise Web Audio API. The synth is very esoteric, but you can load demo sounds and patterns using the dropdown. 
 
----------------------------------------------------------
+-----------------
 
 [Game of Life - React App](https://github.com/Patrick-Sawyer/game-of-life-react-app)
 
@@ -21,7 +20,7 @@ I have a strong interest in making music so many of my projects utilise Web Audi
 
 This is my version of the Game of Life app. This was made using react, and tested using Jest, Enzyme and Cypress.
 
----------------------------------------------------------
+------------------
 
 [Tetris](https://github.com/Patrick-Sawyer/Javascript-Tetris)
 
@@ -29,7 +28,7 @@ This is my version of the Game of Life app. This was made using react, and teste
 
 One of my first vanilla JS projects.
 
------------------------------------------------------------------
+------------------
 
 ## Skills
 
