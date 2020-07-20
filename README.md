@@ -1,6 +1,10 @@
-## Patrick Sawyer
+### Patrick Sawyer
+
+----------------------------------------------
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/patrickrobertsawyer/) | [Github](https://github.com/Patrick-Sawyer/) | [Website](http://www.disco-computer.com)
+
+-------------------------------------------
 
 I am a 36 year old Makers Bootcamp graduate currently working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last two years learning to code, and now have a solid understanding of JavaScript, React, Ruby, Rails and associated testing frameworks. I am now looking for a Junior developer role so I can begin a new career that utilises my new skills.
 
@@ -15,8 +19,6 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 - One of my first React projects.
 - Tested using Jest, Enzyme and Cypress.
 
-------------------------------------------
-
 #### Web Audio API Synth
 
 [Repo](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
@@ -25,15 +27,11 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 - Users can build their own patches and save them
 - Optimised for use in Chrome but works in most modern browsers
 
----------------------------------------------
-
 #### Tetris
 
 [Repo](https://github.com/Patrick-Sawyer/Javascript-Tetris) - [Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
 
 - One of my first vanilla JavaScript projects
-
--------------------------------------------
 
 #### Disco Computer
 
@@ -42,8 +40,6 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 - JavaScript Drum machine
 - Uses Howler.js for audio
 - My very first project
-
----------------------------------------------
 
 #### Gilded Rose Refactoring Challenge
 
@@ -65,8 +61,6 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 - Users can create TikTok playlists
 - JavaScript, React, Ruby on Rails
 - Tested using Jest, Enzyme, Cypress and RSpec
-
--------------------------------------------------
 
 #### Facebook Clone
 
