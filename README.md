@@ -90,7 +90,7 @@ My current employment very kindly allowed me to take sabbatical leave to do an i
 
 - OOP, TDD, MVC, BDD
 - Agile workflow
-- JavaScript, React, JQuery
+- JavaScript, React, jQuery
 - Ruby, Rails, Sinatra
 - Jasmine, Jest, Cypress, RSpec, Capybara
 
