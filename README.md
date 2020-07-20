@@ -6,19 +6,6 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 
 ## Projects
 
-### Group Projects
-
-#### TikTok API Project
-
-[React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api) - [Live Version](http://chronomy.net/)
-
-- Final project from Makers Bootcamp
-- React frontend, Rails API backend
-- Uses TikTok API, and a third party API from tiktok.fail
-- Users can create TikTok playlists
-- JavaScript, React, Ruby on Rails
-- Tested using Jest, Enzyme, Cypress and RSpec
-
 ### Solo Projects
 
 #### Conway's Game of Life React App
@@ -49,6 +36,26 @@ I am a 36 year old Makers Bootcamp graduate currently working for Discovery Chan
 - JavaScript Drum machine
 - Uses Howler.js for audio
 - My very first project
+
+### Group Projects
+
+#### TikTok API Project
+
+[React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api) - [Live Version](http://chronomy.net/)
+
+- Final project from Makers Bootcamp
+- React frontend, Rails API backend
+- Uses TikTok API, and a third party API from tiktok.fail
+- Users can create TikTok playlists
+- JavaScript, React, Ruby on Rails
+- Tested using Jest, Enzyme, Cypress and RSpec
+
+#### Facebook Clone
+
+[Front End Repo](https://github.com/Patrick-Sawyer/acebook-the-fat-controllers-frontend) - [Back End Repo](https://github.com/Patrick-Sawyer/acebook-the-fat-controllers-backend) - [Live Version](http://acebook.surge.sh/)
+
+- Another Makers group project
+- React front end with Rails API backend
 
 ## Skills
 
