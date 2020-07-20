@@ -123,5 +123,5 @@ My current employment very kindly allowed me to take sabbatical leave to do an i
 
 ## Hobbies and Interests
 
-In my spare time I write electronic music, go to concerts, cycle and play a bit of tennis.
+In my spare time I write electronic music, go to concerts, cycle and play a bit of tennis. I also play piano/keyboard and a bit of guitar, drums and didgeridoo.
  
