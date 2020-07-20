@@ -4,7 +4,7 @@
 
 ## Info
 
-I am a 36 year old Makers Bootcamp graduate currently working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last two years learning to code, and now have a solid understanding of JavaScript, React, Ruby, Rails and associated testing frameworks. I am now looking for a Junior developer role so I can begin a new career that utilises my new skills.
+I am a 36 year old Makers Bootcamp graduate currently working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last two years learning to code, and now have a solid understanding of JavaScript, React, Ruby, Rails and associated testing frameworks. I am now looking for a Junior developer role so I can begin a new career that utilises my new skills. I have really enjoyed my coding journey so far and look forward to being able to get an active role within development.
 
 ## Solo Projects
 
