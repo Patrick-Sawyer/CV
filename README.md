@@ -5,7 +5,7 @@
 I am a 36 year old who has spent the last 11 years working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last 18 months learning to code, specifically JavaScript, Ruby, HTML & CSS. I get a lot of satisfaction from it and am now competant enough to make a career jump into development.
 
 ## Projects
-
+----------------------------------------------
 
 [Web Audio API Synth](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth)
 
