@@ -2,19 +2,31 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/patrickrobertsawyer/)
 
-I am a 36 year old who has spent the last 11 years working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last 18 months learning to code, specifically JavaScript, Ruby, HTML & CSS. I get a lot of satisfaction from it and am now competant enough to make a career jump into development.
+I am a 36 year old Makers Bootcamp graduate currently working for Discovery Channel and Eurosport in a technical broadcasting role. I have spent the last two years learning to code, and now have a solid understanding of JavaScript, React, Ruby, Rails and associated testing frameworks. I am now looking for a Junior developer role so I can begin a new career that utilises my new skills.
 
 ## Projects
 
-[Web Audio API Synth](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
+### TikTok API Project
+
+[React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api)
+
+This is my final project from Makers Bootcamp. It was a group project involving a React frontend and a Rails API backend. It is a website where users can create TikTok playlists, and send URLs for these playlists to family and friends. It features testing using Jest, Enzyme, Cypress and RSpec. It utilises the official TikTok API as well as another third party API at tiktok.fail.
+
+### Web Audio API Synth
+
+[Repo](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
 
 I have a strong interest in making music so many of my projects utilise Web Audio API. The synth is very esoteric, but you can load demo sounds and patterns using the dropdown. 
 
-[Game of Life - React App](https://github.com/Patrick-Sawyer/game-of-life-react-app) - [Live Version](http://www.disco-computer.com/game-of-life/)
+### Game of Life React App
+
+[Repo](https://github.com/Patrick-Sawyer/game-of-life-react-app) - [Live Version](http://www.disco-computer.com/game-of-life/)
 
 This is my version of the Game of Life app. This was made using react, and tested using Jest, Enzyme and Cypress.
 
-[Tetris](https://github.com/Patrick-Sawyer/Javascript-Tetris) - [Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
+### Tetris
+
+[Repo](https://github.com/Patrick-Sawyer/Javascript-Tetris) - [Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
 
 One of my first vanilla JS projects.
 
