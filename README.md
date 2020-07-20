@@ -6,29 +6,17 @@ I am a 36 year old who has spent the last 11 years working for Discovery Channel
 
 ## Projects
 
-[Web Audio API Synth](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth)
-
-[Live Version](http://www.disco-computer.com/synthesizer/synth.html)
+[Web Audio API Synth](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
 
 I have a strong interest in making music so many of my projects utilise Web Audio API. The synth is very esoteric, but you can load demo sounds and patterns using the dropdown. 
 
------------------
-
-[Game of Life - React App](https://github.com/Patrick-Sawyer/game-of-life-react-app)
-
-[Live Version](http://www.disco-computer.com/game-of-life/)
+[Game of Life - React App](https://github.com/Patrick-Sawyer/game-of-life-react-app) - [Live Version](http://www.disco-computer.com/game-of-life/)
 
 This is my version of the Game of Life app. This was made using react, and tested using Jest, Enzyme and Cypress.
 
-------------------
-
-[Tetris](https://github.com/Patrick-Sawyer/Javascript-Tetris)
-
-[Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
+[Tetris](https://github.com/Patrick-Sawyer/Javascript-Tetris) - [Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
 
 One of my first vanilla JS projects.
-
-------------------
 
 ## Skills
 
