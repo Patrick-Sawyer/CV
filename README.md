@@ -6,7 +6,7 @@
 
 - JavaScript
 - React
-- React Native (expo and bare workflows)
+- React Native (Expo and bare workflows)
 - Some knowledge of Node
 - jQuery
 - Ruby / Rails
