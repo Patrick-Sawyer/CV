@@ -4,13 +4,13 @@
 
 ## Info
 
-• JavaScript
-• React / React Native
-• Some knowledge of Node
-• jQuery
-• Ruby / Rails
-• Git workflow
-• TDD / BDD e.g. Jest / Cypress / RSpec
+- JavaScript
+- React / React Native
+- Some knowledge of Node
+- jQuery
+- Ruby / Rails
+- Git workflow
+- TDD / BDD e.g. Jest / Cypress / RSpec
 
 I have an app on Google Play which you can download for free. This is a DJ app built using React Native. Search for NoSync on Google Play.
 
