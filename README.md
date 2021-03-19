@@ -6,7 +6,7 @@
 
 - JavaScript
 - React
-- React Native (Expo & cli)
+- React Native (Expo & CLI)
 - Some knowledge of Node
 - jQuery
 - Ruby / Rails
