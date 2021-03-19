@@ -97,11 +97,15 @@ This is my first app on Google Play, a DJ app so you can mix tunes on your andro
 
 *Live Transmission Operator*
 
-- Various similar technical roles within broadcasting, including Lead experience.
+- Various technical roles within broadcasting.
+- Lead experience, often overseeing playout of over 100 channels.
 - Setting up and manning TV channels during live broadcasts.
-- Taking commercial breaks, adjusting playlist depending on the situation.
+- Taking commercial breaks, adjusting playlists depending on the situation.
 - Routing video feeds for live broadcasts.
 - Fixing any errors on air ASAP.
+- Recording of programmes from tape to servers, ready for broadcast.
+- QA / QC of material prior to broadcast.
+- Adding of dubbed audio to video assets.
 - Logging of issues.
 
 **Ascent Media** (November 2007 to December 2009)
