@@ -118,13 +118,10 @@ This is my first app on Google Play, a DJ app so you can mix tunes on your andro
 
 #### Quick Learner
 
-I have always learnt things quickly and easily, hence why I thought I would try my hand at coding. 
-
+- I have always learnt things quickly and easily, hence why I thought I would try my hand at coding. 
 - The first project on my website (the Disco Computer drum machine) was completed only 2 months after "Hello World". In that time I learnt HTML, CSS and JavaScript to a point I could make a fully functioning Web App.
 
 #### Self starter. 
-
-Prior to the Makers course, I was completely self taught. 
 
 - Built entire projects solo through to deployment, teaching myself what I needed to know as and when.
 - I managed to make multiple functional Web Apps within a year of starting to learn HTML.
