@@ -135,7 +135,7 @@ This is my first app on Google Play, a DJ app so you can mix tunes on your andro
 
 #### Makers Academy (March 2020 to July 2020)
 
-My current employment very kindly allowed me to take sabbatical leave to do an intensive coding boot camp. This course was based mainly on the following.
+Whilst working at the Discovery Channel they very kindly allowed me to take sabbatical leave to do an intensive coding boot camp. This course was based mainly on the following.
 
 - OOP, TDD, MVC, BDD
 - Agile workflow
