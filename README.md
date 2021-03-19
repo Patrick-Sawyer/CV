@@ -35,7 +35,7 @@ This is my first app on Google Play, a DJ app so you can mix tunes on your andro
 
 [Repo](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
 
-- An online synth using Web Audio API
+- An online synth built using JavaScript / Web Audio API
 - Users can build their own patches and save them
 - Optimised for use in Chrome but works in most modern browsers
 
@@ -59,12 +59,6 @@ This is my first app on Google Play, a DJ app so you can mix tunes on your andro
 - JavaScript Drum machine
 - Uses Howler.js for audio
 - My very first project
-
-#### Gilded Rose Refactoring Challenge
-
-[Repo](https://github.com/Patrick-Sawyer/GildedRose-Refactoring-Kata/tree/master/spec)
-
-- Using Ruby, and fully tested using RSpec
 
 ## Group Projects
 
