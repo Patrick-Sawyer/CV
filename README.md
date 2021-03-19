@@ -5,7 +5,8 @@
 ## Info
 
 - JavaScript
-- React / React Native
+- React
+- React Native (expo and bare workflows)
 - Some knowledge of Node
 - jQuery
 - Ruby / Rails
