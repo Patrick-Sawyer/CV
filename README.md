@@ -126,6 +126,7 @@ I have always learnt things quickly and easily, hence why I thought I would try 
 
 Prior to the Makers course, I was completely self taught. 
 
+- Built entire projects solo through to deployment, teaching myself what I needed to know as and when.
 - I managed to make multiple functional Web Apps within a year of starting to learn HTML.
 
 #### Works well under pressure.
