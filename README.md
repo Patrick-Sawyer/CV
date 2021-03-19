@@ -80,6 +80,36 @@ This is my first app on Google Play, a DJ app so you can mix tunes on your andro
 - Another Makers group project
 - React front end with Rails API backend
 
+## Experience
+
+**The Only Way Togo Ltd.** (November 2020 to date)
+
+*Freelance React Native Developer*
+
+- Solely responsible for delivering the front end of an app through to deployment.
+- Project built using React Native for IOS/Android/Web.
+- App is a table booking app for over 2000 restaurants.
+- Built front-end from scratch to tie into an existing back end, liaising with the back end developer as required.
+- Project is nearing completion, and should be live on Google Play, App Store and the web soon.
+- Designed by myself.
+
+**Discovery Channel / Eurosport** (December 2009 to November 2020)
+
+*Live Transmission Operator*
+
+- Various similar technical roles within broadcasting, including Lead experience.
+- Setting up and manning TV channels during live broadcasts.
+- Taking commercial breaks, adjusting playlist depending on the situation.
+- Routing video feeds for live broadcasts.
+- Fixing any errors on air ASAP.
+- Logging of issues.
+
+**Ascent Media** (November 2007 to December 2009)
+
+*Runner / Library Assistant*
+
+- Entry level role logging tapes and reels of film into databases and delivering them to various production houses around Soho.
+
 ## Skills
 
 #### Quick Learner
@@ -120,36 +150,6 @@ My current employment very kindly allowed me to take sabbatical leave to do an i
 #### William de Ferrers School and Sixth Form (September 1995 to June 2002)
 
 - Best in School in Maths Challenges every year.
-
-## Experience
-
-**The Only Way Togo Ltd.** (November 2020 to date)
-
-*Freelance React Native Developer*
-
-- Solely responsible for delivering the front end of an app through to deployment.
-- Project built using React Native for IOS/Android/Web.
-- App is a table booking app for over 2000 restaurants.
-- Built front-end from scratch to tie into an existing back end, liaising with the back end developer as required.
-- Project is nearing completion, and should be live on Google Play, App Store and the web soon.
-- Designed by myself.
-
-**Discovery Channel / Eurosport** (December 2009 to November 2020)
-
-*Live Transmission Operator*
-
-- Various similar technical roles within broadcasting, including Lead experience.
-- Setting up and manning TV channels during live broadcasts.
-- Taking commercial breaks, adjusting playlist depending on the situation.
-- Routing video feeds for live broadcasts.
-- Fixing any errors on air ASAP.
-- Logging of issues.
-
-**Ascent Media** (November 2007 to December 2009)
-
-*Runner / Library Assistant*
-
-- Entry level role logging tapes and reels of film into databases and delivering them to various production houses around Soho.
 
 ## Hobbies and Interests
 
