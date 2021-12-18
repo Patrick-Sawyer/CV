@@ -28,65 +28,7 @@ invaluable experience working in teams. This was a web development course focuss
 
 I have learnt many aspects of development vital to working on large scale projects such as test-driven development, object-oriented programming and git workflow. I am eager to learn more and am looking for work that utilises my current skillset whilst continually teaching me new technologies.
 
-## Solo Projects
-
-#### NoSync DJ App
-
-[Repo](https://github.com/Patrick-Sawyer/nosync-new) - [Live Version](https://play.google.com/store/apps/details?id=com.patricksawyer.nosync)
-
-This is my first app on Google Play, a DJ app so you can mix tunes on your android device. It has usual DJ features such as pitch control and crossfade, as well as Keylock functionality. This was built using React Native.
-
-#### Web Audio API Synth
-
-[Repo](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
-
-- An online synth built using JavaScript / Web Audio API
-- Users can build their own patches and save them
-- Optimised for use in Chrome but works in most modern browsers
-
-#### Conway's Game of Life React App
-
-[Repo](https://github.com/Patrick-Sawyer/game-of-life-react-app) - [Live Version](http://www.disco-computer.com/game-of-life/)
-
-- One of my first React projects.
-- Tested using Jest, Enzyme and Cypress.
-
-#### Tetris
-
-[Repo](https://github.com/Patrick-Sawyer/Javascript-Tetris) - [Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
-
-- One of my first vanilla JavaScript projects
-
-#### Disco Computer
-
-[Repo](https://github.com/Patrick-Sawyer/Javascript-Drum-Machine) - [Live Version](http://www.disco-computer.com/discoComputer/disco.html)
-
-- JavaScript Drum machine
-- Uses Howler.js for audio
-- My very first project
-
-## Group Projects
-
-#### TikTok API Project
-
-[React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api) - [Live Version](http://chronomy.net/)
-
-- Final project from Makers Bootcamp
-- React frontend, Rails API backend
-- Uses TikTok API, and a third party API from tiktok.fail
-- Users can create TikTok playlists
-- JavaScript, React, Ruby on Rails
-- Tested using Jest, Enzyme, Cypress and RSpec
-
-#### Facebook Clone
-
-[Front End Repo](https://github.com/Patrick-Sawyer/acebook-the-fat-controllers-frontend) - [Back End Repo](https://github.com/Patrick-Sawyer/acebook-the-fat-controllers-backend) - [Live Version](http://acebook.surge.sh/)
-
-- Another Makers group project
-- React front end with Rails API backend
-
 ## Experience
-
 
 **Nuw** (July 2020 to date)
 
@@ -172,6 +114,63 @@ Whilst working at the Discovery Channel they very kindly allowed me to take sabb
 #### William de Ferrers School and Sixth Form (September 1995 to June 2002)
 
 - Best in School in Maths Challenges every year.
+
+## Solo Projects
+
+#### NoSync DJ App
+
+[Repo](https://github.com/Patrick-Sawyer/nosync-new) - [Live Version](https://play.google.com/store/apps/details?id=com.patricksawyer.nosync)
+
+This is my first app on Google Play, a DJ app so you can mix tunes on your android device. It has usual DJ features such as pitch control and crossfade, as well as Keylock functionality. This was built using React Native.
+
+#### Web Audio API Synth
+
+[Repo](https://github.com/Patrick-Sawyer/JavaScript-Web-Audio-Api-Synth) - [Live Version](http://www.disco-computer.com/synthesizer/synth.html)
+
+- An online synth built using JavaScript / Web Audio API
+- Users can build their own patches and save them
+- Optimised for use in Chrome but works in most modern browsers
+
+#### Conway's Game of Life React App
+
+[Repo](https://github.com/Patrick-Sawyer/game-of-life-react-app) - [Live Version](http://www.disco-computer.com/game-of-life/)
+
+- One of my first React projects.
+- Tested using Jest, Enzyme and Cypress.
+
+#### Tetris
+
+[Repo](https://github.com/Patrick-Sawyer/Javascript-Tetris) - [Live Version](http://www.disco-computer.com/tetrominos/tetrominos.html)
+
+- One of my first vanilla JavaScript projects
+
+#### Disco Computer
+
+[Repo](https://github.com/Patrick-Sawyer/Javascript-Drum-Machine) - [Live Version](http://www.disco-computer.com/discoComputer/disco.html)
+
+- JavaScript Drum machine
+- Uses Howler.js for audio
+- My very first project
+
+## Group Projects
+
+#### TikTok API Project
+
+[React Front End Repo](https://github.com/Patrick-Sawyer/final-project-front-end) - [Rails API Backend Repo](https://github.com/Patrick-Sawyer/chronomy-api) - [Live Version](http://chronomy.net/)
+
+- Final project from Makers Bootcamp
+- React frontend, Rails API backend
+- Uses TikTok API, and a third party API from tiktok.fail
+- Users can create TikTok playlists
+- JavaScript, React, Ruby on Rails
+- Tested using Jest, Enzyme, Cypress and RSpec
+
+#### Facebook Clone
+
+[Front End Repo](https://github.com/Patrick-Sawyer/acebook-the-fat-controllers-frontend) - [Back End Repo](https://github.com/Patrick-Sawyer/acebook-the-fat-controllers-backend) - [Live Version](http://acebook.surge.sh/)
+
+- Another Makers group project
+- React front end with Rails API backend
 
 ## Hobbies and Interests
 
