@@ -5,17 +5,21 @@
 ## Info
 
 - JavaScript
+- TypeScript
 - React
 - React Native (Expo & CLI)
-- Some knowledge of Node
+- Apollo / GraphQL
+- Node
 - jQuery
 - Ruby / Rails
 - Git workflow
 - TDD / BDD e.g. Jest / Cypress / RSpec
 
-I have an app on Google Play which you can download for free. This is a DJ app built using React Native. Search for NoSync on Google Play.
+I am currently working as a Software Engineer for Nuw, a female-led sustainable fashion start-up. Here I am the sole front end developer of an iOS app and an android app. The tech stack is React Native, TypeScript, Apollo/GraphQL & Node.
 
 I have also spent the last few months building a table booking app for a client, again using React Native. I was solely responsible for building the front end of an app (IOS/Android/Web). This will be live in a few weeks so you cannot download it just yet.
+
+I have an app on Google Play which you can download for free. This is a DJ app built using React Native. Search for NoSync on Google Play.
 
 Some of my earlier projects can be found on my website disco-computer.com and github.com/Patrick-Sawyer.
 
@@ -82,6 +86,21 @@ This is my first app on Google Play, a DJ app so you can mix tunes on your andro
 - React front end with Rails API backend
 
 ## Experience
+
+
+**Nuw** (July 2020 to date)
+
+*Software Engineer*
+
+- React Native, TypeScript, GraphQL, Apollo & Node.
+- Sustainable fashion startup with 6 members of staff.
+- Users can sign up and swap their unwanted items of high street fashion for a coin which they can later spend in the app on another item of clothing.
+- Working with the Product Manager and designer to release an updated and improved design every two weeks.
+- Recently added categories and filter FAB to the homepage.
+- Also recently added ‘follows’ functionality.
+- Only full-time developer, the other developer with a backend focus is only part time.
+- I work on the entire frontend by myself and build any backend mutations I need myself also.
+- Experience working Firebase, Push notifications, Stripe
 
 **The Only Way Togo Ltd.** (November 2020 to date)
 
