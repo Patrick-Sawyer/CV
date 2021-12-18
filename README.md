@@ -7,12 +7,12 @@
 - JavaScript
 - TypeScript
 - React
-- React Native (Expo & CLI)
+- React Native
 - Apollo / GraphQL
 - Node
 - jQuery
 - Ruby / Rails
-- Git workflow
+- Git / Bash
 - TDD / BDD e.g. Jest / Cypress / RSpec
 
 I am currently working as a Software Engineer for Nuw, a female-led sustainable fashion start-up. Here I am the sole front end developer of an iOS app and an android app. The tech stack is React Native, TypeScript, Apollo/GraphQL & Node.
